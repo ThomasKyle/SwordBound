@@ -1,0 +1,4 @@
+﻿  TextAdventure Game.cpp
+c:\users\thoma\onedrive\desktop\textadventure game\textadventure game\textadventure game.cpp(121): warning C4102: 'retry2': unreferenced label
+c:\users\thoma\onedrive\desktop\textadventure game\textadventure game\textadventure game.cpp(264): warning C4102: 'retry5': unreferenced label
+  TextAdventure Game.vcxproj -> C:\Users\thoma\OneDrive\Desktop\TextAdventure Game\Debug\TextAdventure Game.exe
